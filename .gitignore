@@ -41,3 +41,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#webdev
+node_modules
+build
+npm-debug.log
+stats.json
